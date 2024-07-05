@@ -1,0 +1,15 @@
+XTerm*background: black
+XTerm*foreground: white
+
+
+! FONT
+XTerm.vt100.faceName: JetBrainsMono Nerd Font:style=Regular
+XTerm.vt100.faceNameDoublesize: SourceHanSansJP-Normal
+XTerm.vt100.faceSize: 10
+
+! KEYBIND
+XTerm.vt100.translations: #override \n\
+    Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
+    Ctrl Shift <Key>V: insert-selection(CLIPBOARD) \n\
+    Ctrl <Key>M: maximize() \n\
+    Ctrl <Key>R: restore()
