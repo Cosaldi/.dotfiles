@@ -1,2 +1,8 @@
 # JetBrainsMono Nerd Font
   power = U+F011 
+  
+volume
+  󰕾 U+F057E
+  󰕿 U+F057F
+  󰖀 U+F0580
+  󰖁 U+F0581
